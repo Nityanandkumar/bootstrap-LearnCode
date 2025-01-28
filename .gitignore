@@ -1,2 +1,3 @@
 node_modules/
+# Ignore minified CSS files
 css/main.min.css
